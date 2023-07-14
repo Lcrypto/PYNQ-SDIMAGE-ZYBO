@@ -11,7 +11,7 @@ uImage          -   Kernel image file
 devicetree.dtb  -   device tree blob
 
 Run board from microsd and use SMB(\\192.168.2.99) and jupyter by Ethernet 192.168.2.99 (login xilinx and passw xilinx )
-4.  DMA overlay
+4.  DMA overlay and module
 This overlay implements a AXI stream dma that transfers data from one address in the memory to another. It is based on the following reference:
 
 Lauri's Blog - AXI Direct Memory Access : 	https://lauri.xn--vsandi-pxa.com/hdl/zynq/xilinx-dma.html
@@ -29,8 +29,8 @@ Returning a numphy array from c: 		http://acooke.org/cute/ExampleCod0.html
 
 Enhancing Python with Custom C Extensions:	https://stackabuse.com/enhancing-python-with-custom-c-extensions/
 
-5. FIR Filter example
+5. FIR Filter jupyter and overlay bitstream example in folder
 
 
  <img src="https://github.com/Lcrypto/PYNQ-SDIMAGE-ZYBO/blob/main/filter%20BD.png" width="405" height="326">
- <img src="https://github.com/Lcrypto/PYNQ-SDIMAGE-ZYBO/blob/main/filter%20BD.png" width="405" height="326">
+ <img src="https://github.com/Lcrypto/PYNQ-SDIMAGE-ZYBO/blob/main/synth_result.png" width="405" height="326">
