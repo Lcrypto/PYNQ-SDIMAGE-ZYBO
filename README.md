@@ -1,5 +1,5 @@
 # PYNQ-SDIMAGE-ZYBO OLD (NOT FOR ZYBO Z7!!!)
-https://github.com/Lcrypto/PYNQ-SDIMAGE-ZYBO/blob/main/zybo-old.png
+!https://github.com/Lcrypto/PYNQ-SDIMAGE-ZYBO/blob/main/zybo-old.png
 
 PYNQ 2.1 SDIMAGE for  ZYBO (old) with Z-7010   (Ubuntu 18.04.5 LTS bionic)
 1. Download image from https://drive.google.com/file/d/13zinkK1EtF_g5ySr_o1me8-X7PB9LwHQ/view?usp=sharing
