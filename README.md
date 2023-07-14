@@ -32,3 +32,5 @@ Enhancing Python with Custom C Extensions:	https://stackabuse.com/enhancing-pyth
 5. FIR Filter example
 
 
+ <img src="https://github.com/Lcrypto/PYNQ-SDIMAGE-ZYBO/blob/main/filter%20BD.png" width="405" height="326">
+ <img src="https://github.com/Lcrypto/PYNQ-SDIMAGE-ZYBO/blob/main/filter%20BD.png" width="405" height="326">
