@@ -32,5 +32,5 @@ Enhancing Python with Custom C Extensions:	https://stackabuse.com/enhancing-pyth
 5. FIR Filter jupyter and overlay bitstream example in folder
 
 
- <img src="https://github.com/Lcrypto/PYNQ-SDIMAGE-ZYBO/blob/main/filter%20BD.png" width="405" height="326">
- <img src="https://github.com/Lcrypto/PYNQ-SDIMAGE-ZYBO/blob/main/synth_result.png" width="405" height="326">
+ <img src="https://github.com/Lcrypto/PYNQ-SDIMAGE-ZYBO/blob/main/filter%20BD.png" >
+ <img src="https://github.com/Lcrypto/PYNQ-SDIMAGE-ZYBO/blob/main/synth_result.png" >
