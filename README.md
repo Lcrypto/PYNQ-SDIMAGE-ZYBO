@@ -11,6 +11,8 @@ uImage          -   Kernel image file
 devicetree.dtb  -   device tree blob
 
 Run board from microsd and use SMB(\\192.168.2.99) and jupyter by Ethernet 192.168.2.99 (login xilinx and passw xilinx )
+
+
 4.  DMA overlay and module
 This overlay implements a AXI stream dma that transfers data from one address in the memory to another. It is based on the following reference:
 
